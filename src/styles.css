@@ -1,0 +1,70 @@
+.title {
+    text-align: center;
+}
+
+.form {
+    font-size: 30px;
+    text-align: center;
+}
+
+.form input {
+    margin: 10px;
+    padding: 7px;
+}
+
+.countryItem {
+    margin: 20px;
+}
+
+
+#span {
+    font-size: 20px;
+    margin: 10px;
+}
+
+#show {
+    padding: 4px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#show:hover {
+    color: red;
+    background-color: black;
+}
+
+.countryList {
+    margin-left: 100px;
+}
+
+.countryDetails {
+    margin-left: 100px;
+}
+
+#countryName {
+    font-size: 30px;
+}
+
+.countryDetails p {
+    font-weight: bold;
+
+}
+
+.countryDetails span {
+    color: red;
+    font-weight: lighter;
+}
+
+.countryWeather {
+    margin-left: 100px;
+}
+
+.countryWeather p {
+    font-weight: bold;
+}
+
+.countryWeather span {
+    color: red;
+    font-weight: lighter;
+}
+
